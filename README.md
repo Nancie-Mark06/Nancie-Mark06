@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi!😊I'm Nancie from Nanjing University (NJU), China.   
+A newcomer to GitHub and the world of programming.   
+Currently learning the fundamentals of computer science and building my foundational skills.   
+Will delve deeper into artificial intelligence in the future.   
+I'm eager to explore anything that can help me enhance my programming abilities.
+
+------------------------------
+南小曦 NJU-KMA 普普通通本科学生 计算机领域新人 试图开始学习的摆子 
